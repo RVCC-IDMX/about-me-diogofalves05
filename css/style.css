@@ -74,6 +74,9 @@ section#hobbies {
     border: 2px solid #61A5ED;
     margin-bottom:2rem;
 }
+#video iframe {
+    max-width:100%;
+}
 
 /* Literature */
 #lit {
