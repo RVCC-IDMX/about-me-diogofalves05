@@ -11,9 +11,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
-    margin: 0.1em
-em
-;
+    margin: 0.1em;
 }
 
 
@@ -67,6 +65,14 @@ section#hobbies {
 
 #gallery figure {
    text-align:center;
+}
+
+/* Video */
+#video {
+    text-align:center;
+    padding:2rem;
+    border: 2px solid #61A5ED;
+    margin-bottom:2rem;
 }
 
 /* Literature */
